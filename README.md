@@ -1,6 +1,6 @@
-# Welcome to React Router!
-
-- [React Router Docs](https://reactrouter.com/home)
+# Description
+We'll be building a small, but feature-rich address book app that lets you keep track of your contacts. There's no database or other "production ready" things, so we can stay focused on the features React Router gives you.
+The project is based on a [React Router 7 tutorial](https://reactrouter.com/tutorials/address-book#address-book).
 
 ## Development
 
